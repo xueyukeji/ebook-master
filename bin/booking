@@ -1,0 +1,4 @@
+#! /usr/bin/env node
+const Command = require('../lib');
+
+new Command().start();
