@@ -58,6 +58,5 @@ typings/
 .env
 
 __**
-files.txt
 package-lock.json
 yarn.lock
